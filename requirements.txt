@@ -1,0 +1,8 @@
+django
+pandas
+matplotlib
+numpy
+pillow
+langchain
+langchain-experimental
+langchain-ollama
